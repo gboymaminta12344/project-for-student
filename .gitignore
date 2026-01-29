@@ -1,0 +1,13 @@
+# Ignore compiled Java files
+*.class
+/bin/
+
+# Ignore Eclipse-specific metadata
+.settings/
+.metadata/
+.project
+.classpath
+
+# Ignore temporary files
+*.tmp
+*.log
